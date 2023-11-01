@@ -47,7 +47,17 @@
 
  } 
 
- .Card3:hover{ 
-    transform: scale(1.2) ; 
+ 
+
+ .Card4{ 
+
+    background-color: rgb(206, 100, 100);
+    width: 40%;
+    height: 60vh;
+    margin-left:25vh;
+    margin-top: -65vh;
+    border-radius: 2vh;
     
- }
+ } 
+
+ .card4
